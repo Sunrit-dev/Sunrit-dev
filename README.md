@@ -55,7 +55,7 @@
 
 | Project | Description | Links |
 | --- | --- | --- |
-| **gitglow** | Premium local git contribution heatmap in Go — truecolor graph, streaks & records, 4 themes, multiple ranges | [Repo](https://github.com/Sunrit-dev/gitglow) |
+| **gitglow** | Premium local Git contribution heatmap in Go. Truecolor `█` graph, a Streaks & Records panel (current/longest streak, best day, busiest week, active-day %), 4 themes (dark / light / synthwave / ice), flexible ranges (30d · 3m · 6m · 1y · all), HTML dashboard export, and cross-platform releases. | [Repo](https://github.com/Sunrit-dev/gitglow) · [Releases](https://github.com/Sunrit-dev/gitglow/releases) · [CI](https://github.com/Sunrit-dev/gitglow/actions/workflows/ci.yml) |
 
 ---
 
