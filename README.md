@@ -31,31 +31,31 @@
 
 | Project | Description | Links |
 | --- | --- | --- |
-| **JUnE OS** | AI-integrated Rust OS — graphical desktop, window manager, 5 apps, ring-3 user mode, persistent DB | [Repo](https://github.com/sunritb/juneos-os) · [Release](https://github.com/sunritb/juneos-os/releases) · [Package](https://github.com/sunritb/juneos-os/pkgs/container/juneos-os) |
-| **AetherTrace** | Physically-based path tracer in Rust — NEE + MIS, BVH, GGX PBR, progressive rendering | [Repo](https://github.com/sunritb/aethertrace) |
+| **JUnE OS** | AI-integrated Rust OS — graphical desktop, window manager, 5 apps, ring-3 user mode, persistent DB | [Repo](https://github.com/Sunrit-dev/juneos-os) · [Release](https://github.com/Sunrit-dev/juneos-os/releases) · [Package](https://github.com/Sunrit-dev/juneos-os/pkgs/container/juneos-os) |
+| **AetherTrace** | Physically-based path tracer in Rust — NEE + MIS, BVH, GGX PBR, progressive rendering | [Repo](https://github.com/Sunrit-dev/aethertrace) |
 
 ### AI for India
 
 | Project | Description | Links |
 | --- | --- | --- |
-| **BharatGov AI** | AI assistant for Indian government services with official-source citations | [Repo](https://github.com/sunritb/bharatgov-ai) · [Live](https://bharatgov-ai-phi.vercel.app) |
-| **Nyaya AI** | Legal document explainer in English, Hindi & Bengali — 13 Indian laws | [Repo](https://github.com/sunritb/ai-legal-assistant) · [Live](https://sunritb.github.io/ai-legal-assistant/) |
-| **SmartCity AI** | Civic complaint platform — AI classification, multilingual assistant, live maps | [Repo](https://github.com/sunritb/smartcity-ai) |
-| **ThirdJune** | Sovereign AI agent platform — 8 agents, encryption, sandboxed code execution | [Repo](https://github.com/sunritb/thirdjune-ai) |
-| **ThirdJune Workspace** | One AI workspace for documents — writing, PDFs, spreadsheets, presentations | [Repo](https://github.com/sunritb/One-Al-workspace-for-every-document.) |
+| **BharatGov AI** | AI assistant for Indian government services with official-source citations | [Repo](https://github.com/Sunrit-dev/bharatgov-ai) · [Live](https://bharatgov-ai-phi.vercel.app) |
+| **Nyaya AI** | Legal document explainer in English, Hindi & Bengali — 13 Indian laws | [Repo](https://github.com/Sunrit-dev/ai-legal-assistant) · [Live](https://Sunrit-dev.github.io/ai-legal-assistant/) |
+| **SmartCity AI** | Civic complaint platform — AI classification, multilingual assistant, live maps | [Repo](https://github.com/Sunrit-dev/smartcity-ai) |
+| **ThirdJune** | Sovereign AI agent platform — 8 agents, encryption, sandboxed code execution | [Repo](https://github.com/Sunrit-dev/thirdjune-ai) |
+| **ThirdJune Workspace** | One AI workspace for documents — writing, PDFs, spreadsheets, presentations | [Repo](https://github.com/Sunrit-dev/One-Al-workspace-for-every-document.) |
 
 ### Games & tools
 
 | Project | Description | Links |
 | --- | --- | --- |
-| **June Gun Game** | Browser FPS — ballistics, recoil, procedural audio, Indian-style NPCs & festival arena | [Play](https://sunritb.github.io/june-gun-game/) · [Repo](https://github.com/sunritb/june-gun-game) |
-| **NimbusBT** | Modern BitTorrent client — web UI, CLI, SOCKS proxy, blocklist | [Repo](https://github.com/sunritb/nimbusbt) |
+| **June Gun Game** | Browser FPS — ballistics, recoil, procedural audio, Indian-style NPCs & festival arena | [Play](https://Sunrit-dev.github.io/june-gun-game/) · [Repo](https://github.com/Sunrit-dev/june-gun-game) |
+| **NimbusBT** | Modern BitTorrent client — web UI, CLI, SOCKS proxy, blocklist | [Repo](https://github.com/Sunrit-dev/nimbusbt) |
 
 ### Developer tools
 
 | Project | Description | Links |
 | --- | --- | --- |
-| **gitglow** | Premium local git contribution heatmap in Go — truecolor graph, streaks & records, 4 themes, multiple ranges | [Repo](https://github.com/sunritb/gitglow) |
+| **gitglow** | Premium local git contribution heatmap in Go — truecolor graph, streaks & records, 4 themes, multiple ranges | [Repo](https://github.com/Sunrit-dev/gitglow) |
 
 ---
 
@@ -63,10 +63,10 @@
 
 | | |
 | --- | --- |
-| **Repositories** | [github.com/sunritb?tab=repositories](https://github.com/sunritb?tab=repositories) |
-| **Releases** | [github.com/sunritb?tab=repositories&q=has%3Arelease](https://github.com/sunritb?tab=repositories&q=has%3Arelease) |
-| **Packages** | [github.com/sunritb?tab=packages](https://github.com/sunritb?tab=packages) |
-| **Gists** | [gist.github.com/sunritb](https://gist.github.com/sunritb) |
+| **Repositories** | [github.com/Sunrit-dev?tab=repositories](https://github.com/Sunrit-dev?tab=repositories) |
+| **Releases** | [github.com/Sunrit-dev?tab=repositories&q=has%3Arelease](https://github.com/Sunrit-dev?tab=repositories&q=has%3Arelease) |
+| **Packages** | [github.com/Sunrit-dev?tab=packages](https://github.com/Sunrit-dev?tab=packages) |
+| **Gists** | [gist.github.com/Sunrit-dev](https://gist.github.com/Sunrit-dev) |
 | **Stories** | [medium.com/@sunofficial39](https://medium.com/@sunofficial39) |
 
 ---
