@@ -51,6 +51,12 @@
 | **June Gun Game** | Browser FPS — ballistics, recoil, procedural audio, Indian-style NPCs & festival arena | [Play](https://sunritb.github.io/june-gun-game/) · [Repo](https://github.com/sunritb/june-gun-game) |
 | **NimbusBT** | Modern BitTorrent client — web UI, CLI, SOCKS proxy, blocklist | [Repo](https://github.com/sunritb/nimbusbt) |
 
+### Developer tools
+
+| Project | Description | Links |
+| --- | --- | --- |
+| **gitglow** | Premium local git contribution heatmap in Go — truecolor graph, streaks & records, 4 themes, multiple ranges | [Repo](https://github.com/sunritb/gitglow) |
+
 ---
 
 ## Quick links
