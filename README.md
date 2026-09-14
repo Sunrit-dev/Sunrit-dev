@@ -27,6 +27,12 @@
 
 ## Featured projects
 
+### Full-stack & SaaS
+
+| Project | Description | Links |
+| --- | --- | --- |
+| **UniBot Ops** | Production-ready multi-tenant WhatsApp bot SaaS — NestJS + Prisma + BullMQ API with Argon2/JWT auth & RBAC, state-machine chatbot flows, bookings with slot checks & smart reminders, broadcasts, CRM, analytics, onboarding wizard and a Next.js dashboard. Fully containerized with Docker CI/CD (auto images to GHCR). | [Repo](https://github.com/Sunrit-dev/unibot-ops) · [CI](https://github.com/Sunrit-dev/unibot-ops/actions) |
+
 ### Systems & graphics
 
 | Project | Description | Links |
