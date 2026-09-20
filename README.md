@@ -32,6 +32,7 @@
 | Project | Description | Links |
 | --- | --- | --- |
 | **UniBot Ops** | Production-ready multi-tenant WhatsApp bot SaaS — NestJS + Prisma + BullMQ API with Argon2/JWT auth & RBAC, state-machine chatbot flows, bookings with slot checks & smart reminders, broadcasts, CRM, analytics, onboarding wizard and a Next.js dashboard. Fully containerized with Docker CI/CD (auto images to GHCR). | [Repo](https://github.com/Sunrit-dev/unibot-ops) · [CI](https://github.com/Sunrit-dev/unibot-ops/actions) |
+| **BinIt** | AI-powered geospatial civic waste management platform — photo reports, 11-class computer-vision waste classification, severity scoring, OSRM collection routing, dual urban/panchayat zones & proof-of-cleanup verification. Next.js 14 + FastAPI. | [Repo](https://github.com/Sunrit-dev/BinIt) · [Live](https://binit-sigma.vercel.app/) |
 
 ### Systems & graphics
 
