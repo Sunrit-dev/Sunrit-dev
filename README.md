@@ -150,19 +150,6 @@ I architect and ship full-stack products with clean code: high-performance **sys
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sunrit-dev&theme=tokyonight" alt="Activity Summary"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sunrit-dev&theme=tokyonight&hide_border=true" alt="Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sunrit-dev&theme=tokyonight" alt="Most Used Languages"/>
-</p>
-
----
-
 ## 📈 What I Build
 
 **Software engineering** ⚙️
