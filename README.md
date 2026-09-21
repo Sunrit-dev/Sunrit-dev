@@ -7,7 +7,7 @@
 </p>
 
 <h1 align="center">Sunrit Biswas</h1>
-<h3 align="center">Systems &amp; AI Builder · India-first products · Open Source</h3>
+<h3 align="center">Software &amp; AI Engineer · India-first products · Open Source</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sunrit-biswas-a56aa439a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -27,9 +27,19 @@
 
 ## 👋 About Me
 
-I'm a **full-stack systems & AI engineer** who ships production-grade, India-first products — from a **Rust operating system** that boots its own graphical desktop, to an **AI legal assistant** for Indian citizens, to a **geospatial civic-waste platform** dispatching municipal clean-up crews.
+I'm a **Software & AI Engineer** who designs, builds and ships complete products — end to end. I don't just write code; I take ideas from **kernel internals to deployed AI applications**, and everything in between.
 
-> 🛠️ I architect **complete products, end-to-end** — kernel internals, AI/ML pipelines, web & mobile UIs, databases, CI/CD and deployments.
+Looking at the work I've shipped, the pattern is clear — I build **software that understands real people**, and I give it brains:
+
+- 🦀 **I build the foundations.** I wrote a **Rust operating system** (`JUnE OS`) that boots its own graphical desktop, window manager, ring-3 user mode and an on-disk database. I wrote a **physically-based path tracer** in Rust (NEE + MIS, GGX PBR, multi-threaded progressive rendering). When I said *systems*, I meant it — right down to x86-64.
+- 🤖 **I give software intelligence.** Multi-agent platforms (`ThirdJune`), **RAG with citation-grounded answers** for Indian government services (`BharatGov AI`), **computer-vision waste classification** with severity scoring and route optimization (`BinIt`), and an **AI legal assistant** that explains Indian law in 3 languages (`Nyaya AI`).
+- 🛠️ **I ship real products.** Production-grade SaaS with **auth, RBAC, queues, payments and CI/CD** — not demos. My WhatsApp bot platform (`UniBot Ops`) runs on NestJS + Prisma + BullMQ with Argon2/JWT auth, and my legal AI ships with **UPI payments**.
+- 🌍 **I build India-first.** Government services, civic infrastructure, legal documents, multilingual AI — everything engineered around the constraints and languages of real Indian users.
+- 🎮 **I also make software fun.** A browser FPS with procedural audio (`June Gun Game`), a secure BitTorrent client (`NimbusBT`), and a Go contribution heatmap (`gitglow`).
+
+> 🛠️ **Core identity:** *Software Engineer & AI Engineer* — full-stack web, systems programming, AI/ML pipelines, databases, CI/CD and cloud deployments. I architect products where the **software layer** is clean and the **AI layer** is genuinely useful.
+
+> 💼 Open to great engineering problems across **software development, AI products, systems engineering and India-focused tech**.
 
 ---
 
@@ -164,12 +174,19 @@ I'm a **full-stack systems & AI engineer** who ships production-grade, India-fir
 
 ## 📈 What I Build
 
-- 🦀 **Systems**: OS kernels, low-level graphics, perf-critical Rust
-- 🌐 **Web**: Next.js + FastAPI full-stack products with clean architecture
-- 🤖 **AI**: LLM agents, RAG pipelines with citations, computer vision, fine-tuning
+**Software engineering** ⚙️
+- 🦀 **Systems**: OS kernels, low-level graphics, perf-critical Rust (JUnE OS, AetherTrace)
+- 🌐 **Full-stack web**: Next.js + FastAPI / NestJS products with clean architecture
+- 🧰 **Backend & DevOps**: NestJS, Prisma, BullMQ, Docker, GitHub Actions, GHCR, cloud deploys
 - 📱 **Mobile**: cross-platform Android + iOS apps
-- 🇮🇳 **Civic & Legal tech**: products engineered for real Indian users
-- 🧰 **DevOps**: Docker, GitHub Actions, GHCR + one-command deployments
+- 🚀 **SaaS**: real auth, RBAC, queues, payments & CI/CD — not demos
+
+**AI engineering** 🤖
+- 🧠 **LLM agents & multi-agent systems** (ThirdJune)
+- 📚 **RAG with citation-grounded answers** (BharatGov AI)
+- 👁️ **Computer vision** — waste classification, severity scoring (BinIt)
+- ⚖️ **Multilingual legal AI** — English, Hindi & Bengali (Nyaya AI)
+- 🇮🇳 **Applied AI for India** — government services, civic tech, Indian languages
 
 ---
 
