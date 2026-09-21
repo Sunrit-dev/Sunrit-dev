@@ -27,11 +27,9 @@
 
 ## 👋 About Me
 
-**Software & AI Engineer** based in India, building products end to end — from systems programming to deployed AI applications.
+**Software & AI Engineer**, building products end to end — from systems programming to deployed AI applications.
 
 I architect and ship full-stack products with clean code: high-performance **systems & web backends** (Rust, Python, TypeScript), scalable **cloud infrastructure** (Docker, CI/CD), and production-grade **software architecture** (auth, RBAC, queues, payments). On the AI side, I design and integrate **LLM-powered applications** — agent systems, RAG with grounded citations, and computer vision — engineered for reliability and real-world use.
-
-My work is **India-first**: civic infrastructure, government services, legal documents and multilingual AI, built around the constraints of real users and shipped like a professional product — tested, documented and deployed.
 
 > 💼 Open to roles and collaborations in **software engineering, AI products, and systems engineering**.
 
