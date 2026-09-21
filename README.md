@@ -15,7 +15,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20to%20Work-22c55e?style=for-the-badge&logo=rocket&logoColor=white" alt="Open to Work">
-  <img src="https://img.shields.io/badge/Hackathon%20Winner-8b5cf6?style=for-the-badge&logo=trophy&logoColor=white" alt="Hackathons">
+  <img src="https://img.shields.io/badge/Open%20Source%20Contributor-1b4332?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Open Source Contributor">
 </p>
 
 ---
