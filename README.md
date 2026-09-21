@@ -27,19 +27,13 @@
 
 ## 👋 About Me
 
-I'm a **Software & AI Engineer** who designs, builds and ships complete products — end to end. I don't just write code; I take ideas from **kernel internals to deployed AI applications**, and everything in between.
+**Software & AI Engineer** based in India, building products end to end — from systems programming to deployed AI applications.
 
-Looking at the work I've shipped, the pattern is clear — I build **software that understands real people**, and I give it brains:
+I architect and ship full-stack products with clean code: high-performance **systems & web backends** (Rust, Python, TypeScript), scalable **cloud infrastructure** (Docker, CI/CD), and production-grade **software architecture** (auth, RBAC, queues, payments). On the AI side, I design and integrate **LLM-powered applications** — agent systems, RAG with grounded citations, and computer vision — engineered for reliability and real-world use.
 
-- 🦀 **I build the foundations.** I wrote a **Rust operating system** (`JUnE OS`) that boots its own graphical desktop, window manager, ring-3 user mode and an on-disk database. I wrote a **physically-based path tracer** in Rust (NEE + MIS, GGX PBR, multi-threaded progressive rendering). When I said *systems*, I meant it — right down to x86-64.
-- 🤖 **I give software intelligence.** Multi-agent platforms (`ThirdJune`), **RAG with citation-grounded answers** for Indian government services (`BharatGov AI`), **computer-vision waste classification** with severity scoring and route optimization (`BinIt`), and an **AI legal assistant** that explains Indian law in 3 languages (`Nyaya AI`).
-- 🛠️ **I ship real products.** Production-grade SaaS with **auth, RBAC, queues, payments and CI/CD** — not demos. My WhatsApp bot platform (`UniBot Ops`) runs on NestJS + Prisma + BullMQ with Argon2/JWT auth, and my legal AI ships with **UPI payments**.
-- 🌍 **I build India-first.** Government services, civic infrastructure, legal documents, multilingual AI — everything engineered around the constraints and languages of real Indian users.
-- 🎮 **I also make software fun.** A browser FPS with procedural audio (`June Gun Game`), a secure BitTorrent client (`NimbusBT`), and a Go contribution heatmap (`gitglow`).
+My work is **India-first**: civic infrastructure, government services, legal documents and multilingual AI, built around the constraints of real users and shipped like a professional product — tested, documented and deployed.
 
-> 🛠️ **Core identity:** *Software Engineer & AI Engineer* — full-stack web, systems programming, AI/ML pipelines, databases, CI/CD and cloud deployments. I architect products where the **software layer** is clean and the **AI layer** is genuinely useful.
-
-> 💼 Open to great engineering problems across **software development, AI products, systems engineering and India-focused tech**.
+> 💼 Open to roles and collaborations in **software engineering, AI products, and systems engineering**.
 
 ---
 
