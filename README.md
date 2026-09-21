@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="profile-photo.png" alt="Sunrit Biswas" width="190" style="border-radius: 50%;">
-</p>
-
-<p align="center">
   <img src="robot-animated.svg" alt="Hi, I am Sunrit Biswas" width="440">
 </p>
 
