@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 340" role="img" aria-label="Animated hacker robot with photo of Sunrit Biswas saying Hi, I am Sunrit Biswas">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 340" role="img" aria-label="Animated hacker robot with photo of Sunrit Biswas saying hi i am Sunrit">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#04070d"/>
@@ -24,7 +24,7 @@
     </clipPath>
     <clipPath id="typeClip">
       <rect id="typeMask" x="92" y="0" width="0" height="60">
-        <animate attributeName="width" values="0;0;0;13;26;40;53;66;79;92;105;119;132;145;158;171;185;198;211;224;237;250;264;277;290" dur="3.2s" calcMode="discrete" fill="freeze"/>
+        <animate attributeName="width" values="0;0;0;14;29;43;57;71;86;100;114;129;143;157;171;186;200" dur="3.2s" calcMode="discrete" fill="freeze"/>
       </rect>
     </clipPath>
     <style>
@@ -153,9 +153,9 @@
   </text>
 
   <g clip-path="url(#typeClip)">
-    <text x="92" y="312" class="mono cyan" font-size="21" font-weight="600">Hi, I am Sunrit Biswas</text>
+    <text x="92" y="312" class="mono cyan" font-size="21" font-weight="600">hi i am Sunrit</text>
   </g>
-  <polygon class="mono cyan" points="362,296 362,307 375,301" opacity="0">
+  <polygon class="mono cyan" points="292,296 292,307 305,301" opacity="0">
     <animate attributeName="opacity" values="0;0;1;0;1;0;1" dur="3.6s" keyTimes="0;0.88;0.9;0.93;0.95;0.98;1" fill="freeze"/>
   </polygon>
   <text x="92" y="332" class="mono amber" font-size="11.5" letter-spacing="2.5" opacity="0">
