@@ -6,7 +6,6 @@
   <img src="robot-animated.svg" alt="Hi, I am Sunrit Biswas" width="440">
 </p>
 
-<h1 align="center">Sunrit Biswas</h1>
 <h3 align="center">Software &amp; AI Engineer · India-first products · Open Source</h3>
 
 <p align="center">
