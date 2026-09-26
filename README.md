@@ -169,10 +169,15 @@ I architect and ship full-stack products with clean code: high-performance **sys
 | | |
 | --- | --- |
 | **Repositories** | [github.com/Sunrit-dev?tab=repositories](https://github.com/Sunrit-dev?tab=repositories) |
+| **Dev Journal** | [Sunrit-dev/dev-journal](https://github.com/Sunrit-dev/dev-journal) — an active engineering journal: daily notes on Rust, AI/LLMs, full-stack and product builds |
+| **Achievements** | [Profile badges](https://github.com/Sunrit-dev?tab=achievements) — YOLO · Pull Shark · Quickdraw · Galaxy Brain |
+| **Live Projects** | [BinIt](https://binit-sigma.vercel.app/) · [BharatGov AI](https://bharatgov-ai-phi.vercel.app) |
 | **Releases** | [github.com/Sunrit-dev?tab=repositories&q=has%3Arelease](https://github.com/Sunrit-dev?tab=repositories&q=has%3Arelease) |
 | **Packages** | [github.com/Sunrit-dev?tab=packages](https://github.com/Sunrit-dev?tab=packages) |
 | **Gists** | [gist.github.com/Sunrit-dev](https://gist.github.com/Sunrit-dev) |
 | **Stories** | [medium.com/@sunofficial39](https://medium.com/@sunofficial39) |
+
+> 📓 **Recent journal streak:** consistently engineering every day — systems, AI products and open source.
 
 ---
 
